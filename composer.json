@@ -1,0 +1,12 @@
+{
+    "name": "ejw98/voku-simple-html-dom-style-bug",
+    "authors": [
+        {
+            "name": "Ethan",
+            "email": "ethan@inclushe.com"
+        }
+    ],
+    "require": {
+        "voku/simple_html_dom": "^4.8"
+    }
+}
